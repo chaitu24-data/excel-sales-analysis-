@@ -1,7 +1,7 @@
 # excel-sales-analysis-
 Project Objectives:
 
-1. Develop a Customer Performance Report.
+1. Develop a https://github.com/chaitu24-data/excel-sales-analysis-/blob/main/customer_performance_report.pdf
 
 2. Perform a detailed comparison of Market Performance and Sales Targets.
 
