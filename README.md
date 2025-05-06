@@ -1,24 +1,48 @@
 # excel-sales-analysis-
-# Customer Performance Analysis Reports
+Project Objectives:
 
-This repository contains Excel-based reports created to analyze customer performance using sales and target data.
+1. Develop a Customer Performance Report.
 
-## Files Included
+2. Perform a detailed comparison of Market Performance and Sales Targets.
 
-- **CustomerPerformance.xlsx**  
-  This report provides a detailed analysis of customer-wise performance metrics such as total sales, number of transactions, and contribution to overall revenue. It helps identify the top-performing customers.
+Purpose of Sales Analytics: Empower businesses to monitor and evaluate sales activities and performance.
 
-- **CustomerPerformanceVsTarget.xlsx**  
-  This report compares actual customer performance against predefined sales targets. It includes calculations for variance, percentage achievement, and highlights customers who met or missed their targets.
+Key Insights from Sales Data Analysis:
 
-## Objective
+Identify sales patterns and track key performance indicators (KPIs).
+Understand trends across markets and customers.
+Role of Reports:
 
-The goal of these reports is to gain insights into customer behavior, sales trends, and performance efficiency to support data-driven decision-making for business growth.
+Determine optimal customer discounts.
+Facilitate consumer negotiations.
+Discover new business expansion opportunities in promising regions.
+Finance Report:
+Project Objectives:
 
-## Tools Used
+1. Generate Profit and Loss (P&L) reports by Fiscal Year.
 
-- Microsoft Excel
+2. Create Profit and Loss (P&L) reports by Markets.
 
-## Author
+Purpose of Financial Analysis: Evaluate financial performance, support data-driven decision-making, and facilitate communication with stakeholders.
 
-Chaithra D S
+Key Insights from Financial Data Analysis:
+
+Benchmark against industry peers and previous periods.
+Lay the groundwork for effective budgeting and forecasting.
+Role of Reports:
+
+Align financial planning with long-term strategic goals.
+Build stakeholder confidence in the organization's financial outlook.
+Technical & Soft Skills:
+Technical Skills:
+ Proficiency in ETL methodology (Extract, Transform, Load).
+ Skills to generate date tables using Power Query.
+ Ability to derive fiscal months and quarters.
+ Establishing data model relationships with Power Pivot.
+ Incorporating supplementary data into an existing data model.
+ Utilizing DAX to create calculated columns.
+Soft Skills:
+ Refined understanding of Sales and Finance Reports.
+ Designing user-centric reports with empathy in mind.
+ Optimization of report generation through meticulous fine-tuning.
+ Developing a systematic approach to devising a report-building plan
