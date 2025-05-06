@@ -1,9 +1,9 @@
 # excel-sales-analysis-
 Project Objectives:
 
-1. Develop a customer_performance_report.pdf
+1. Develop a [customer performance report]
 
-2. Perform a detailed comparison of customer _performance vs target .pdf
+2. Perform a detailed comparison of [customer performance vs target]
 
 Purpose of Sales Analytics: Empower businesses to monitor and evaluate sales activities and performance.
 
