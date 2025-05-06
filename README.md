@@ -3,7 +3,7 @@ Project Objectives:
 
 1. Develop a [customer performance report](https://github.com/chaitu24-data/excel-sales-analysis-/blob/main/customer_performance_report.pdf).
 
-2. Perform a detailed comparison of [customer performance vs target]
+2. Perform a detailed comparison of [customer performance vs target](https://github.com/chaitu24-data/excel-sales-analysis-/blob/main/customer%20_performance%20vs%20target%20.pdf).
 
 Purpose of Sales Analytics: Empower businesses to monitor and evaluate sales activities and performance.
 
