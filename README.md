@@ -1,4 +1,4 @@
-# excel-sales-analysis
+# Excel-sales-analysis
 Project Objectives:
 
 1. Develop a [customer performance report](https://github.com/chaitu24-data/excel-sales-analysis-/blob/main/customer_performance_report.pdf).
